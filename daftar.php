@@ -89,8 +89,8 @@
                 </div>
             <?php else: ?>
                 <div style="text-align: center; color: #dc3545; padding: 20px;">
-                    <h3>Error: Data tidak ditemukan</h3>
-                    <p>Silakan isi form registrasi terlebih dahulu.</p>
+                    <h3>Data tidak ditemukan</h3>
+                    <p>Silahkan isi form registrasi terlebih dahulu.</p>
                     <div class="back-button">
                         <a href="index.html">Kembali ke Form Registrasi</a>
                     </div>
